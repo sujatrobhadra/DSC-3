@@ -1,6 +1,6 @@
 # DSC-3
-Projects and Assigments of DSC-3\n
+Projects and Assigments of DSC-3\
 These are the code files of DSC-3 assignments and projects.
 # Contributors:
-Amitesh Mahapatra\n
+Amitesh Mahapatra\
 Sujatro Bhadra
